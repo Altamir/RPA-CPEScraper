@@ -50,4 +50,15 @@ Progresso:
 - [ ] Criar App que consuma o serviço
 - [ ] Configurar paths via settings.
 - [ ] Tratar erros de conexao.    
+
+
+## App Screens 
+
+App developing in flutter.
+
+![Search complete](https://i.imgur.com/sYsG2Hc.png)
+
+![Search error text empty](https://i.imgur.com/wjlSsZx.png)
+
+![Search on last datas error](https://i.imgur.com/M4QxiD2.png)
  
